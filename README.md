@@ -31,4 +31,4 @@ This project underscores the potential of integrating sentiment analysis with qu
 
 ---
 
-The `FX-Sentiment-Analysis-Trading-Strategy` repository stands as a testament to the innovative use of data science in financial markets, offering valuable insights and tools for traders and analysts alike.
+The `FX-Sentiment-Analysis-Trading-Strategy` repository utilizes innovative use of data science in financial markets, offering valuable insights and tools for traders and analysts alike.
